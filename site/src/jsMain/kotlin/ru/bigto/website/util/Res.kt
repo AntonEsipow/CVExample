@@ -37,7 +37,7 @@ object Res {
         const val ABOUT_ME = "Hello!\n" +
                 "My name is Anton, and I am an Android developer." +
                 "\n" +
-                "I have been passionate about mobile app development for 3 years and have been completely immersed in exploring the Android platform and its capabilities. My work experience includes a variety of projects, ranging from simple applications to complex and innovative projects that require integration with external APIs and the use of the latest technologies."
+                "I have been passionate about mobile app development for 3 years and have been completely immersed in exploring the Android platform and its capabilities. My work experience includes a variety of projects, ranging from simple applications to complex and innovative projects."
         const val BUTTON_TEXT = "Get in touch"
         const val ROBOTO_CONDENSED = "RobotoCondensedBold"
         const val ROBOTO_REGULAR = "RobotoRegular"
