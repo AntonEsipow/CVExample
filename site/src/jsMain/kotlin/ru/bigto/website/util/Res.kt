@@ -27,7 +27,7 @@ object Res {
     }
 
     object Image {
-        const val PROFILE_PHOTO = "toxa.png"
+        const val PROFILE_PHOTO = "pepa.jpg"
     }
 
     // todo ref
